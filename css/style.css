@@ -1,0 +1,256 @@
+
+.head-bg{
+	background-image: url(../img/home-bg.png);
+	background-size: cover;
+	background-position: center;
+	display: block;
+	height: 900px;
+	padding: 30px;
+
+
+}
+
+.breadcrumb{
+	background: transparent;
+	
+}
+nav{
+	padding:30px;
+}
+
+.home{
+	color: #fff;
+
+}
+
+.logo1 {
+    margin-bottom: 99px;
+}
+
+.logo2{
+	color: #505050;
+	 margin-top: 23px;
+}
+.abt-head{
+	border-bottom: 4px solid #e4e4e4;
+}
+.head-content{
+	color: #fff;
+
+	
+}
+.head-content h1{
+	padding: 10px;
+	background-color: #323230;
+	text-align: center;
+
+}
+.head-content p{
+	margin-top: 33px;
+}
+.head-content button{
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	padding: 5px 50px;
+	text-transform: uppercase;
+	margin-top: 80px;
+
+}
+.home-contant{
+	padding: 110px;
+	text-align: justify;
+
+}
+.home-contant2{
+	background-color: #28282e;
+	color: #fff;
+	padding: 100px;
+}
+.btn{
+	border: 3px solid #fff;
+	color: #fff;
+	text-transform: uppercase;
+}
+.parent-home{
+	position: relative;
+
+}
+.child{
+	position: absolute;
+	top: 50px;
+font-size: 50px;
+}
+
+.footer{
+	background-color: #ef4035;
+	color: #fff;
+	font-size: 18px;
+	padding: 30px;
+}
+
+.about{
+	background-color: difult;
+	padding-left: 30px;
+}
+.about_us-contant{
+	text-align: justify;
+	padding: 40px;
+}
+
+.abt-top p{
+	margin-top: 63px;
+}
+.abt-low p{
+	margin-top: 110px;
+}
+
+.contact-body{
+	background-color: #ee4a3f;
+	padding: 30px;
+	color: #fff;
+	
+}
+.contact-body label{
+	text-transform: uppercase;
+
+} 
+.form-sec{
+	margin-top: 30px;
+}
+.form-control{
+	background-color: #ff6258;
+
+	
+}
+.btn{
+	margin-top: 75px;
+	border: none;
+}.head-bg{
+	background-image: url(../img/home-bg.png);
+	background-size: cover;
+	background-position: center;
+	display: block;
+	height: 900px;
+	padding: 30px;
+
+
+}
+
+.breadcrumb{
+	background: transparent;
+	
+}
+nav{
+	padding:30px;
+}
+
+.home{
+	color: #fff;
+
+}
+
+.logo1 {
+    margin-bottom: 99px;
+}
+
+.logo2{
+	color: #505050;
+	 margin-top: 23px;
+}
+.abt-head{
+	border-bottom: 4px solid #e4e4e4;
+}
+.head-content{
+	color: #fff;
+
+	
+}
+.head-content h1{
+	padding: 10px;
+	background-color: #323230;
+	text-align: center;
+
+}
+.head-content p{
+	margin-top: 33px;
+}
+.head-content button{
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	padding: 5px 50px;
+	text-transform: uppercase;
+	margin-top: 80px;
+
+}
+.home-contant{
+	padding: 110px;
+	text-align: justify;
+
+}
+.home-contant2{
+	background-color: #28282e;
+	color: #fff;
+	padding: 100px;
+}
+.btn{
+	border: 3px solid #fff;
+	color: #fff;
+	text-transform: uppercase;
+}
+.parent-home{
+	position: relative;
+
+}
+.child{
+	position: absolute;
+	top: 50px;
+font-size: 50px;
+}
+
+.footer{
+	background-color: #ef4035;
+	color: #fff;
+	font-size: 18px;
+	padding: 30px;
+}
+
+.about{
+	background-color: difult;
+	padding-left: 30px;
+}
+.about_us-contant{
+	text-align: justify;
+	padding: 40px;
+}
+
+.abt-top p{
+	margin-top: 63px;
+}
+.abt-low p{
+	margin-top: 110px;
+}
+
+.contact-body{
+	background-color: #ee4a3f;
+	padding: 30px;
+	color: #fff;
+	
+}
+.contact-body label{
+	text-transform: uppercase;
+
+} 
+.form-sec{
+	margin-top: 30px;
+}
+.form-control{
+	background-color: #ff6258;
+
+	
+}
+.btn{
+	margin-top: 75px;
+	border: none;
+}
